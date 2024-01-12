@@ -44,14 +44,6 @@ Schedulers are employed to choose preferred and optimistic neighbors.
 9. File Completion:
 
 - If a peer acquires all the pieces, it assembles them to reconstruct the complete file.
-   
-**Steps to run the file:** 
-1. Unzip the folder 'BhaktiArmishKantariya.zip'
-2. Login to thunder by ssh to the cise machine with your username
-3. Upload the folder to the cise server
-4. Navigate to the project sub-directory
-5. Use the following command on the terminal to start every peer:
-   run.sh ~/P2PFileSharingBitTorrentProtocol peerId
 
 **Bit Torrent Demo:** 
 https://uflorida-my.sharepoint.com/:v:/g/personal/b_kantariya_ufl_edu/EdoVN3HHCXdKj2xhIoUA-HgBiiWwKs7gCJHZVNZyh1VLZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=HwYsNv
